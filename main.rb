@@ -1,3 +1,1 @@
-git pullputs 'Gà Vinh'
-puts 'Genshin impact'
-puts 'hello'
+puts 'fix'
